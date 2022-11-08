@@ -81,6 +81,9 @@ footer:
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/rsoeyadi"
 
+atom_feed:
+  hide: true
+  
 defaults:
   # _posts
   - scope:
